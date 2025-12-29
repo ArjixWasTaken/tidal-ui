@@ -697,7 +697,7 @@
 					<a
 						target="_blank"
 						rel="noopener noreferrer"
-						href="https://github.com/uimaxbai/tidal-ui"
+						href="https://github.com/ArjixWasTaken/tidal-ui"
 						class="toolbar-icon"
 						aria-label="Project GitHub"
 					>
