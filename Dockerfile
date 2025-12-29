@@ -31,6 +31,7 @@ EXPOSE 5000
 
 # Set the environment to production
 ENV NODE_ENV=production
+ENV PORT=5000
 
 # Specify the command to run the app
 CMD ["node", "build"]
